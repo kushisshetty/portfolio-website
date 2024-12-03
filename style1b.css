@@ -1,0 +1,30 @@
+
+body,h1,h2,p{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+header{
+    background-color:darkorchid;
+    color: black;
+    text-align:center;
+    padding: 1rem;
+    
+}
+main{
+    padding:1rem;
+    
+}
+.profile{
+    display:flex;
+    align-items:360px;
+}
+footer{
+    background:#333;
+    color:#fff;
+    padding:30px;
+    text-align:center;
+}
